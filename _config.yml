@@ -27,3 +27,4 @@ kramdown:
       line_numbers: true
 lazyimages: "disabled"
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+gems: [‘jemoji’]
