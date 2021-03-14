@@ -8,6 +8,8 @@ name: "APPLE 瓦其惹果"
 # 网站副标题
 description: "“我叫果果，是一名来自四川大凉山的强棒元气少女！”"
 
+gems: [‘jemoji’]
+
 # 分页配置
 # 每页文章数量
 paginate: 9
@@ -27,4 +29,3 @@ kramdown:
       line_numbers: true
 lazyimages: "disabled"
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
-gems: [‘jemoji’]
